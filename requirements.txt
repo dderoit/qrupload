@@ -1,0 +1,5 @@
+colorama==0.4.6
+pytz==2025.2
+qrcode==8.2
+Requests==2.32.4
+requests_toolbelt==1.0.0
